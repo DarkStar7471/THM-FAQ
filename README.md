@@ -1,6 +1,4 @@
 # THM-Wiki
-TryHackMe Site Wiki
+TryHackMe Prototype FAQ
 
 
-Current Pages:
-- Index
