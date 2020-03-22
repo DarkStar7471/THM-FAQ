@@ -1,4 +1,4 @@
-# THM-Wiki
+# THM-FAQ
 TryHackMe Prototype FAQ
 
 
